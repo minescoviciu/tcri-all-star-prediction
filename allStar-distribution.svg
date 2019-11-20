@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>pyqtgraph SVG export</title>
+<desc>Generated with Qt and pyqtgraph</desc>
+<defs>
+</defs>
+<g id="GraphicsScene_1">
+    <g fill="none" fill-rule="evenodd" id="ViewBox_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+        <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="none">
+            <path d="M60.0812,1.0 L571.0002,1.0 L571.0002,530.2 L60.0812,530.2 L60.0812,1.0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+        </g>
+        <clipPath id="ViewBox_1_clip">
+            <path d="M60.0812,1.0 L571.0,1.0 L571.0,530.2 L60.0812,530.2 L60.0812,1.0 " fill-rule="evenodd" stroke-width="1.0" vector-effect="none"/>
+        </clipPath>
+        <g clip-path="url(#ViewBox_1_clip)"/>
+    </g>
+    <g fill="none" fill-rule="evenodd" id="PlotItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+        <g fill="none" fill-rule="evenodd" id="ElidedLabelsAxis_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                <polyline fill="none" points="60.0812,530.2 571.0002,530.2" stroke-width="1.0" vector-effect="none"/>
+            </g>
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                <polyline fill="none" points="195.2312,530.2 195.2312,525.2" stroke-width="1.0" vector-effect="none"/>
+                <polyline fill="none" points="436.85020000000003,530.2 436.85020000000003,525.2" stroke-width="1.0" vector-effect="none"/>
+            </g>
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,60.5812,530.2)">
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="130.172" xml:space="preserve" y="12.1875">0</text>
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="374.406" xml:space="preserve" y="12.1875">1</text>
+            </g>
+            <g fill="none" fill-rule="evenodd" id="QGraphicsTextItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                
+
+
+                
+
+
+                <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,286.081,549.2)">
+                    <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="16">allStar </text>
+                </g>
+                
+
+
+                
+
+            </g>
+        </g>
+        <g fill="none" fill-rule="evenodd" id="AxisItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                <polyline fill="none" points="60.0812,41.5357 60.0812,511.132" stroke-width="1.0" vector-effect="none"/>
+            </g>
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                <polyline fill="none" points="60.5812,511.132 65.5812,511.132" stroke-width="1.0" vector-effect="none"/>
+            </g>
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.498039" stroke-width="1">
+                <polyline fill="none" points="60.5812,175.706 63.9146,175.706" stroke-width="1.0" vector-effect="none"/>
+            </g>
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.333333" stroke-width="1">
+                <polyline fill="none" points="60.5812,444.046 63.0812,444.046" stroke-width="1.0" vector-effect="none"/>
+                <polyline fill="none" points="60.5812,376.961 63.0812,376.961" stroke-width="1.0" vector-effect="none"/>
+                <polyline fill="none" points="60.5812,309.876 63.0812,309.876" stroke-width="1.0" vector-effect="none"/>
+                <polyline fill="none" points="60.5812,242.791 63.0812,242.791" stroke-width="1.0" vector-effect="none"/>
+                <polyline fill="none" points="60.5812,108.621 63.0812,108.621" stroke-width="1.0" vector-effect="none"/>
+                <polyline fill="none" points="60.5812,41.5357 63.0812,41.5357" stroke-width="1.0" vector-effect="none"/>
+            </g>
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1.5,1)">
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="45.1406" xml:space="preserve" y="513.125">0</text>
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="23.5469" xml:space="preserve" y="177.703">1000</text>
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="25.8125" xml:space="preserve" y="446.031">200</text>
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="24.5156" xml:space="preserve" y="378.953">400</text>
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="27.0156" xml:space="preserve" y="311.875">600</text>
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="26.9219" xml:space="preserve" y="244.781">800</text>
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="22.0938" xml:space="preserve" y="110.609">1200</text>
+                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="20.7969" xml:space="preserve" y="43.5313">1400</text>
+            </g>
+            <g fill="none" fill-rule="evenodd" id="QGraphicsTextItem_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                
+
+
+                
+
+
+                <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0,-1,1,0,-4,310)">
+                    <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="16">Frequency </text>
+                </g>
+                
+
+
+                
+
+            </g>
+        </g>
+        <g fill="none" fill-rule="evenodd" id="ViewBox_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="none">
+                <path d="M60.0812,1.0 L571.0002,1.0 L571.0002,530.2 L60.0812,530.2 L60.0812,1.0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+            </g>
+            <clipPath id="ViewBox_2_clip">
+                <path d="M60.0812,1.0 L571.0,1.0 L571.0,530.2 L60.0812,530.2 L60.0812,1.0 " fill-rule="evenodd" stroke-width="1.0" vector-effect="none"/>
+            </clipPath>
+            <g clip-path="url(#ViewBox_2_clip)">
+                <g fill="none" fill-rule="evenodd" id="ChildGroup_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                    <g fill="none" fill-rule="evenodd" id="DistributionBarItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                        <g fill="#46befa" fill-opacity="1" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.5" transform="matrix(241.62,0,0,-0.335426,194.731,511.132)">
+                            <rect height="1464" vector-effect="non-scaling-stroke" width="0.4" x="-0.4" y="0"/>
+                        </g>
+                        <g fill="#ed462f" fill-opacity="1" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.5" transform="matrix(241.62,0,0,-0.335426,194.731,511.132)">
+                            <rect height="0" vector-effect="non-scaling-stroke" width="0.4" x="0" y="0"/>
+                        </g>
+                    </g>
+                    <g fill="none" fill-rule="evenodd" id="DistributionBarItem_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                        <g fill="#46befa" fill-opacity="1" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.5" transform="matrix(241.62,0,0,-0.335426,194.731,511.132)">
+                            <rect height="0" vector-effect="non-scaling-stroke" width="0.4" x="0.6" y="0"/>
+                        </g>
+                        <g fill="#ed462f" fill-opacity="1" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.5" transform="matrix(241.62,0,0,-0.335426,194.731,511.132)">
+                            <rect height="73" vector-effect="non-scaling-stroke" width="0.4" x="1" y="0"/>
+                        </g>
+                    </g>
+                </g>
+                <g fill="none" fill-rule="evenodd" id="LegendItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                    <g fill="#e8e8e8" fill-opacity="0.392157" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#c4c5c1" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.784314" stroke-width="1">
+                        <path d="M529.063,3.0 C529.063,1.8954309999999999 529.958431,1.0 531.063,1.0 L569.0005,1.0 C570.1051,1.0 571.0005,1.8954309999999999 571.0005,3.0 L571.0005,67.0 C571.0005,68.1046 570.1051,69.0 569.0005,69.0 L531.063,69.0 C529.958431,69.0 529.063,68.1046 529.063,67.0 L529.063,3.0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+                    </g>
+                    <g fill="none" fill-rule="evenodd" id="ItemSample_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                        <g fill="#46befa" fill-opacity="1" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#46befa" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                            <path d="M549.063,16.0 C549.063,18.76142 546.82442,21.0 544.063,21.0 C541.30158,21.0 539.063,18.76142 539.063,16.0 C539.063,13.238579999999999 541.30158,11.0 544.063,11.0 C546.82442,11.0 549.063,13.238579999999999 549.063,16.0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+                        </g>
+                    </g>
+                    <g fill="none" fill-rule="evenodd" id="LabelItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                        <g fill="none" fill-rule="evenodd" id="QGraphicsTextItem_3" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                            
+
+
+                            
+
+
+                            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,549.063,6)">
+                                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="16">0</text>
+                            </g>
+                            
+
+
+                            
+
+                        </g>
+                    </g>
+                    <g fill="none" fill-rule="evenodd" id="ItemSample_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                        <g fill="#ed462f" fill-opacity="1" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#ed462f" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                            <path d="M549.063,48.0 C549.063,50.76142 546.82442,53.0 544.063,53.0 C541.30158,53.0 539.063,50.76142 539.063,48.0 C539.063,45.23858 541.30158,43.0 544.063,43.0 C546.82442,43.0 549.063,45.23858 549.063,48.0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+                        </g>
+                    </g>
+                    <g fill="none" fill-rule="evenodd" id="LabelItem_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                        <g fill="none" fill-rule="evenodd" id="QGraphicsTextItem_4" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                            
+
+
+                            
+
+
+                            <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,549.063,38)">
+                                <text fill="#000000" fill-opacity="1" font-family="Chilanka, sans-serif" font-size="16" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="16">1</text>
+                            </g>
+                            
+
+
+                            
+
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g fill="none" fill-rule="evenodd" id="ViewBox_3" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+        <g fill="none" font-family="Chilanka" font-size="16" font-style="normal" font-weight="400" stroke="none">
+            <path d="M60.0812,1.0 L571.0002,1.0 L571.0002,530.2 L60.0812,530.2 L60.0812,1.0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+        </g>
+        <clipPath id="ViewBox_3_clip">
+            <path d="M60.0812,1.0 L571.0,1.0 L571.0,530.2 L60.0812,530.2 L60.0812,1.0 " fill-rule="evenodd" stroke-width="1.0" vector-effect="none"/>
+        </clipPath>
+        <g clip-path="url(#ViewBox_3_clip)"/>
+    </g>
+</g>
+
+</svg>
